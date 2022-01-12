@@ -1,0 +1,29 @@
+{
+  "name": "js-rest-api-prac",
+  "version": "1.0.0",
+  "description": "Node.js and mongo db based rest api client",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dee-sdpkm/js-rest-api-prac.git"
+  },
+  "keywords": [
+    "js",
+    "node.js",
+    "mongo",
+    "rest"
+  ],
+  "author": "sdpkm-dee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dee-sdpkm/js-rest-api-prac/issues"
+  },
+  "homepage": "https://github.com/dee-sdpkm/js-rest-api-prac#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
